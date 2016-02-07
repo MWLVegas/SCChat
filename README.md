@@ -1,2 +1,2 @@
 # SCChat
-The Stuzzcraft Network Web-Chat
+The Stuzzcraft Network Web chat
